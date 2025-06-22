@@ -17,3 +17,8 @@ This project is a real-time user login tracking system using Kafka, MongoDB, Fla
 
 ![Project Image](https://github.com/user-attachments/assets/87eb8bd5-8d6e-4461-bf43-6d1eddd52fb5)
 
+---
+
+## 🛠️ OUTPUT
+
+![Screenshot 2025-06-22 163834](https://github.com/user-attachments/assets/3b7495b4-5d42-439c-b2bf-053737807f5a)
